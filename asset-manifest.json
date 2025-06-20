@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/chillseongmall01/static/css/main.35ce88e9.css",
+    "main.css": "/chillseongmall01/static/css/main.a01c251b.css",
     "main.js": "/chillseongmall01/static/js/main.cd0b6707.js",
     "index.html": "/chillseongmall01/index.html",
-    "main.35ce88e9.css.map": "/chillseongmall01/static/css/main.35ce88e9.css.map",
+    "main.a01c251b.css.map": "/chillseongmall01/static/css/main.a01c251b.css.map",
     "main.cd0b6707.js.map": "/chillseongmall01/static/js/main.cd0b6707.js.map"
   },
   "entrypoints": [
-    "static/css/main.35ce88e9.css",
+    "static/css/main.a01c251b.css",
     "static/js/main.cd0b6707.js"
   ]
 }
