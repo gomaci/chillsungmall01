@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chillseongmall01/static/css/main.35ce88e9.css",
+    "main.js": "/chillseongmall01/static/js/main.2cc0981d.js",
+    "index.html": "/chillseongmall01/index.html",
+    "main.35ce88e9.css.map": "/chillseongmall01/static/css/main.35ce88e9.css.map",
+    "main.2cc0981d.js.map": "/chillseongmall01/static/js/main.2cc0981d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35ce88e9.css",
+    "static/js/main.2cc0981d.js"
+  ]
+}
