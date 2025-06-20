@@ -1,0 +1,85 @@
+.wrap {
+  width: 100%;
+}
+.main_img {
+  width: 100%;
+  height: 590px;  
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  margin: 0;
+}
+
+.main_img img {
+  width: 100%;  
+  height: 100%; 
+  object-fit: cover; 
+}
+
+.newhotstart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.newhotstart h1 {
+  font-size: 32px;
+}
+
+.newhot {
+  width: 100%;
+}
+
+.newhot img {
+  width: 350px;
+  height: 200px;
+  border-radius: 10%;
+}
+
+.item {
+  position: relative;
+  width: 300px;
+}
+
+.item p {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  position: absolute;
+  bottom: 10px;
+  left: 58%;
+  transform: translateX(-50%);
+  margin: 0;
+  padding: 8px 12px;
+  color: white;
+  font-size: 14px;
+  border-radius: 6px;
+  text-align: center;
+  font-weight: 700;
+}
+
+.choco {
+  width: 350px;
+  height: 200px;
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  background-color: aqua;
+}
+
+.choco .chocopoto {
+  width: 110px;
+  height: 110px;
+  margin-left: 5px;
+  margin-top: 45px;
+}
+
+.choco > img {
+  width: 20px;
+  height: 20px;
+}
+
+.choco p {
+  margin-top: 45px;
+  font-size: 13px;
+}
